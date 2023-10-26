@@ -84,7 +84,7 @@ header .icons #menu
 }
 .home .home-slider .slide1
 {
-    background: url(images/img14.jpg);
+    background: url(img14.jpg);
 }
 /*
 .home .home-slider .slide2
@@ -377,7 +377,7 @@ section
 .reservation .image
 {
     width: 55%;
-    background: url(images/img10.jpg);
+    background: url(img10.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
